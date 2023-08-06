@@ -1,0 +1,15 @@
+{
+  "name": "mco-phase2",
+  "version": "1.0.0",
+  "description": "notes app",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronn Ramos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.4.0"
+  }
+}
